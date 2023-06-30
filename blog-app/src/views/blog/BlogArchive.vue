@@ -97,8 +97,8 @@
 
   .el-container {
     width: 820px;
-    position: absolute;
-    left: 540px;
+    /*position: absolute;*/
+    /*left: 540px;*/
   }
 
   .el-main {

@@ -45,7 +45,7 @@
           }
 
         }).catch(err => {
-          that.$message({message: err, type: 'error', showClose: true});
+          that.$message({message: "图片添加失败！单张图片最大为5M，单次文件上传最大为20M", type: 'error', showClose: true});
         })
       }
     },

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eece52f0-68c1-47e3-afab-13b0e86d78d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-app/static/user/tourist.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/comment/CommentItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/components/comment/CommentItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/markdown/MarkdownEditor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/components/markdown/MarkdownEditor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/scrollpage/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/components/scrollpage/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogArchive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogArchive.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogCategory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogCategory.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogTag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogTag.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/common/ArticleScrollPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-app/src/views/common/ArticleScrollPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b649004e3f95e0d2de3bdb0df66ab7194794938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21a59ba5873a2062b62f88ea58ac30223c36237a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b432c82d49df42438bb87f0930fa646f2dd8671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/315fcd4a477f5f2ad0d31cb84a08c08aef22518d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/317da85519903ca80220c8a912e233e4f1f4e148" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/358e493a18898376f402ec791ca18c2be4c9db91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37f56920644698acb4d4ee0d3cb4c7b9a1a94b27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3cc09c3ce5813c532ca72c9d56b10f8318c2981c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dc7de3948f01616749aa7fbca8cd817491936a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ed07f0cd2899a2248e7a8568cd01fcaf3bf1d6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/432935410a33149a51d1bed0cba2854380da47d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/480a4a4f3c6f17b3df28593bced292eadbfa7c21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a16d40ce8f57dd776aab0d8e28773818e1127ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dd4f83c37ee32c22ae95e93760ae2045ea355cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51d7e81fc0f42368947afaa13f16c235ba4120c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5591da05731bfa58d67f5b9f50419b9eb455912d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/560e9eace7fc2026c3b64809df5b2cb4515d35fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/589c3a05bcfda39debc3f61076506f280403c866" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/595b61c622859c0865914aae47a9f286d137f59b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ac1c1c316ea4e7bbd4a12f1e1f13125a99fbd58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b2591f294ddbd84fec65ef5d171ae01d6e871a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c0bee3469788ba6d96be41958b06d499abc0544" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/625e6da6c947207e5331ef27460c23bd3835960e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/659ba6f0c7223924e489b7e317d41d8d6c3f66af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cd945750df78c285b12ca990e643a13c3fc5d5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f152d9504dcfcd536aa40504e52c7cbc507e7b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71a002a41fa53a691b4d8ccd3bee0d78b4f73bed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72252a5abd63f5633984d381988316b16a52dd2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/766653ccbbe5b600df7e94f5e812ba62d1edd9e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b783c93ebff8e724a860af497aa26c0b57df779" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/8456a70e6ede63a7a67abc9f17ecdddafa06e90c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85d86792e2c0dbbb8d7d391c7b3c17ec9edfa595" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8674aeca62a3311d6b9bc26f3409e567ae0ee512" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c3448f981f14f34239e3eb0fe69773cc88f5a71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/928188b968322c641c5a036a6006547672b0f66f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/998f75d345b74f0374f31e66da8c34f2331562bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a629630e6f768ad52f8381792e5bf70db497024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e382abc6006936d8c3226abb9fac3396d3c6e25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0d7f4cd52fbb1161af2c368ceb23faae2c33308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ef7c4a907d6b98058ee8113e9759bbaffb945c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a764b36e19ecd62bd7b6c742752aa0e72c5d12a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9304497b7ff6b24cbd9dc5c8ae0ff61ec4b7a08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac2d90890d57e831865530424c7071cae893e623" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adef80abed213d5f0d1a14073ecda71fec2f5676" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae4bebca90691e12a38f79f97eb05a46324ca23a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b35d44539bebe2bdf91ad518c02a88d39548ad57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b78484d34f2fd68ac07b4739f6adc5e8a0bb12cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba375c275b4ceed260ead0bb0b6dd32168e53f38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0dabb525e4308d98126210726d418da1fec7079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1c4fa95b9c6c36fe5c137591f59b37053e59d6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6fb0fcc41a6c4bd553baab4064b6b673512f16d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce40cad7d2b2438d39539d4fbbc8052146d8015b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d32cef7036cd4afd833834e82a90613564050712" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d37be6031c44a4b758ceade6ffdc0466d6279d58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6d1ca6389a1a198d32242fba74936fe3ff109c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7c59dc869072fe017488914c90f24e8a16484ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db36272ce4b80592b2fa287f49d2c5877719b10f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e020df4580f2093739f9f989fe8bd20ffaba4041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e07180bc68918c118c55a11ef233c33bc72946dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e19591e1532fe76375b726317fb125ffbe89dc26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8ec5d01ff24c4c5e9a7beb38c4c386b84d22c82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e98625dac4774dca1b9c4192dcb5ce86b7626e2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb292e976b8355c38cd9933b517e6e4bd91b52fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebc62f8293416c20071f975d918cc4eeb8f3c5db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef4bb90d2ecf196305ae3c14466c53352a0956dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f484087bdfff7d103f3464a54a2dec7af80a2fb2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9cd73a070e6f81ab97eff329e1e51a6e8bbda78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd3a032dc987c04a256b045982fb1d7907d25f02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffb760f73292a7a335bd3ce7afaef01fe22b7367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/handler/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/handler/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/service/impl/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/service/impl/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QrosrWpwHsH8JU7QdHJze28rTu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "dad142eb019c49fb4321b4a49c92ebf6",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.blog.BlogApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eece52f0-68c1-47e3-afab-13b0e86d78d4" name="Changes" comment="" />
+      <created>1686121272242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686121272242</updated>
+      <workItem from="1686121273479" duration="362000" />
+      <workItem from="1686311948660" duration="86000" />
+      <workItem from="1688038129405" duration="144000" />
+      <workItem from="1688086378895" duration="10775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog-app/src/main/java/com/chen/blog/service/impl/CommentServiceImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

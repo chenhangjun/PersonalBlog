@@ -14,7 +14,7 @@
 
     <el-container>
       <el-main class="me-articles">
-        <article-scroll-page v-bind="article"></article-scroll-page>
+        <article-scroll-page></article-scroll-page>
       </el-main>
     </el-container>
   </div>
@@ -99,13 +99,14 @@ export default {
 
 .el-container {
   width: 820px;
-  position: absolute;
-  left: 540px;
+  /*position: absolute;*/
+  /*left: 540px;*/
 }
 
 .el-main {
   padding: 0px;
   line-height: 16px;
+  /*margin-bottom: -100px;*/
 }
 
 .me-category-list {

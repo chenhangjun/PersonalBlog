@@ -67,6 +67,7 @@
     },
     methods: {
       load() {
+        console.log("hhhh")
         this.getArticles()
       },
       view(id) {

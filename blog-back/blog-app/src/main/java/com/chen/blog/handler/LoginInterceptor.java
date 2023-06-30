@@ -47,7 +47,7 @@ public class LoginInterceptor implements HandlerInterceptor {
         log.info("token: {}", token);
         log.info("================== request end ==================");
 
-        if (requestURI.equals("/comments/create/change") && StringUtils.isBlank(token))  {
+        if (requestURI.equals("/comments/create/change") && (StringUtils.isBlank(token) || token.equals("undefined")))  {
             // 如果是游客添加评论  没有token
             return true;
         }

@@ -1,18 +1,13 @@
 <template>
   <div class="me-view-comment-item">
     <div class="me-view-comment-author">
-      <a class="">
-        <img class="me-view-picture" :src="comment.author.avatar" />
-      </a>
+      <img class="me-view-picture" :src="comment.author.avatar" />
       <div class="me-view-info">
         <span class="me-view-nickname">{{comment.author.nickname}}</span>
-        <div class="me-view-meta">
-          <span>{{rootCommentCounts - index}}楼</span>
-          <span>{{comment.createDate | format}}</span>
-        </div>
+        <span class="me-view-time">{{comment.createDate | format}}</span>
       </div>
     </div>
-    <div>
+    <div style="margin-left: 20px;">
       <p class="me-view-comment-content">{{comment.content}}</p>
       <div class="me-view-comment-tools">
         <!--<a class="me-view-comment-tool">-->
@@ -26,14 +21,16 @@
       <div class="me-reply-list">
         <div class="me-reply-item" v-for="c in comment.children" :key="c.id">
           <div style="font-size: 14px">
-            <span class="me-reply-user">{{c.author.nickname}}:&nbsp;&nbsp;</span>
+            <span class="me-reply-user">{{c.author.nickname}}&nbsp;&nbsp;</span>
+            <span>回复&nbsp;&nbsp;</span>
 
-            <span v-if="c.level == 2" class="me-reply-user">@{{c.toUser.nickname}} </span>
+            <span v-if="c.level == 2" class="me-reply-user">{{c.toUser.nickname}} </span>
+            <span class="me-view-time">{{c.createDate | format}}</span>
 
-            <span>{{c.content}}</span>
           </div>
-          <div class="me-view-meta">
-            <span style="padding-right: 10px">{{c.createDate | format}}</span>
+          <div style="margin-left: 10px;">
+            <span>{{c.content}}</span>
+
           <!--  <a class="me-view-comment-tool" @click="showComment(c.id, c.author)">
               <i class="me-icon-comment"></i>&nbsp;回复
             </a> -->
@@ -146,6 +143,15 @@
     margin-top: 60px;
   }
 
+  .me-view-picture {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    vertical-align: middle;
+    background-color: #5fb878;
+  }
+
   .me-view-comment-title {
     font-weight: 600;
     border-bottom: 1px solid #f0f0f0;
@@ -175,11 +181,19 @@
   }
 
   .me-view-comment-author {
+    display: flex;
     margin: 10px 0;
-    vertical-align: middle;
+    align-items: center;
   }
 
   .me-view-nickname {
+    margin-left: 10px;
+    color: #78b6f7;
+    font-size: 16px;
+  }
+  .me-view-time {
+    margin-left: 10px;
+    color: grey;
     font-size: 14px;
   }
 

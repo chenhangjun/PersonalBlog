@@ -38,11 +38,21 @@
       handleScroll(e) {
         var that = this
         if (!that.noData) {
+          console.log("chen111")
           let curHeight = document.documentElement.scrollTop || document.body.scrollTop
           var scrollPage = document.getElementById('scroll-page');
 
+          console.log(document.documentElement.scrollTop)
+          console.log(document.body.scrollTop)
+          console.log(curHeight)
+          console.log(window.innerHeight)
+          console.log(that.$refs.scroll.offsetHeight)
+          console.log(that.offset)
+          // console.log(that.isDownDirection())
           if ((curHeight + window.innerHeight >= that.$refs.scroll.offsetHeight + that.offset) && that.isDownDirection()) {
+            console.log("chen222")
             if (!that.loading) {
+              console.log("chen333")
               that.$emit('load')
             }
           }

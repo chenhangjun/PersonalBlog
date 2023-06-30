@@ -13,6 +13,7 @@ import com.chen.blog.vo.CommentVo;
 import com.chen.blog.vo.Result;
 import com.chen.blog.vo.UserVo;
 import com.chen.blog.vo.params.CommentParams;
+import org.joda.time.DateTime;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -91,6 +92,7 @@ public class CommentServiceImpl implements CommentService {
         CommentVo commentVo = new CommentVo();
         BeanUtils.copyProperties(comment, commentVo);
         commentVo.setId(String.valueOf(comment.getId()));
+        commentVo.setCreateDate(new DateTime(comment.getCreateDate()).toString("yyyy-MM-dd HH:mm"));
         // 作者信息
         Long authorId = comment.getAuthorId();
         UserVo userVo = sysUserService.findUserVoById(authorId);
